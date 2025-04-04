@@ -1,8 +1,10 @@
 # ReactiveForms
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
+Este es un proyecto Angular en el que trato los formularios y formularios reactivos junto con la validación de campos mediantes validaciones generales, personalizadas y PATTERNS. Espero que te sea útil!
 
 ## Development server
+
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
 
 To start a local development server, run:
 
